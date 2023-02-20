@@ -1,0 +1,9 @@
+# Folders
+# dependencies
+/Include
+/Lib
+/Scripts
+/share/*
+
+__pycache__
+.vs
