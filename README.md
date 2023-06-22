@@ -1,6 +1,6 @@
-Özön, Derin, 22111170
+Özön, Derin, 
 
-Thura, Aw, 22108220
+Thura, Aw, 
 
 Tumor Predictor 2023.1
 
